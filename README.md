@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenxiujin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### Welcome to minecraft 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenxiujin&show_icons=true&theme=radical&repo=springboot-base)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **chenxiujin/chenxiujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
